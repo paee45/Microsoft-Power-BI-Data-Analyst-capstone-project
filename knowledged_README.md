@@ -1,4 +1,5 @@
 # Microsoft-Power-BI-Data-Analyst-capstone-project
+
   - Using MS Excel to obtain data from various sources and then clean, transform, and load the data for further analysis.
   - Cleaning, transforming, and loading data in Power BI
   - Designing a data model and modeling data in Power BI.
@@ -12,3 +13,10 @@
   - Establish and specify the relationships between various tables in the data model.
   - Define a dedicated calendar table for temporal data analysis and reporting.
   - Synthesize DAX data into a consolidated US Dollar table encompassing sales and profit metrics.
+  - Configure its data sources.
+  - Design and develop a data model.
+  - Create time-based summaries for displaying quarterly, annual, and year-to-date profit data.
+  - Determine median sales volume to assess Tailwind Traders' performance stability.
+  - Utilize the Performance Analyzer tool to enhance report generation and ensure fast loading times.
+  - Configure subscriptions to empower stakeholders with timely and actionable insights.
+  - Set up proactive alerts, enabling them to steer their strategies precisely and confidently.
