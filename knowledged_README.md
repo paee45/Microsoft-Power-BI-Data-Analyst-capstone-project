@@ -1,0 +1,14 @@
+# Microsoft-Power-BI-Data-Analyst-capstone-project
+  - Using MS Excel to obtain data from various sources and then clean, transform, and load the data for further analysis.
+  - Cleaning, transforming, and loading data in Power BI
+  - Designing a data model and modeling data in Power BI.
+  - Creating model calculations using DAX and optimizing model performance
+  - Creating and enhancing dashboards and reports for usability, storytelling, and identifying patterns and trends.
+  - Incorporate Excel data sources into Power BI and ensure accurate data types.
+  - Review statistics and details of the data sources to detect and rectify any discrepancies or errors.
+  - Identify and filter out refunded purchases to maintain the data's integrity.
+  - Implement a Python script to transform and refine the currency exchange data.
+  - Construct a snowflake schema tailored for the data model.
+  - Establish and specify the relationships between various tables in the data model.
+  - Define a dedicated calendar table for temporal data analysis and reporting.
+  - Synthesize DAX data into a consolidated US Dollar table encompassing sales and profit metrics.
